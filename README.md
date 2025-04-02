@@ -10,4 +10,5 @@
 
 ![image](https://github.com/user-attachments/assets/c33c8620-a008-4385-b298-23c2ea5167ed)
 
+### Com a ajuda da AI conseguimos idenficar os pontos positivos, negativos e neutros das frases atraves da analise de conversação.
 ![image](https://github.com/user-attachments/assets/a831c963-d06d-4c99-a48b-bb1210206db1)
