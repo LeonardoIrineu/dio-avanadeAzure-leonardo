@@ -1,6 +1,6 @@
 # dio-avanadeAzure-leonardo
 
-# Realizei atraves de uma aula da decolatech Avanade 2025 uma analise de sentimentos nas transcrições do audio atraves da plataforma azure.
+# Realizei através de uma aula da decolatech Avanade 2025 uma analise de sentimentos nas transcrições do áudio através da plataforma azure.
 
 ![image](https://github.com/user-attachments/assets/d77146ec-25cb-4f4a-b7ac-76246850e362)
 
